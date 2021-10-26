@@ -29,6 +29,7 @@
 <h2>Contato:</h2>
 
 [![image](https://img.shields.io/badge/In-Linkedin-blue)](https://www.linkedin.com/in/bruno-branco-bicudo-220387a1/)
+![image](https://img.shields.io/badge/Hotmail-brunobranco4@hotmail.com-blue)
 
 ![bbicudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbicudo&show_icons=true&theme=dark)
 
