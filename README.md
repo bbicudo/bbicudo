@@ -35,5 +35,6 @@
 ![bbicudo's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbicudo&layout=compact&card_width=445langs_count=7&theme=dark)
 
 <h3>Por último, sinta-se livre para voltar quando quiser e entrar em contato caso precisar. Você é sempre bem-vindo(a)!</h3>
+
 ![meliodas-nanatsu-no-taizai](https://user-images.githubusercontent.com/22198380/138902369-0fbced11-9357-421e-a185-d5df70aa9028.gif)
 
