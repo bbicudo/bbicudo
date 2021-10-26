@@ -36,5 +36,5 @@
 
 <h4>Por último, sinta-se livre para voltar quando quiser e entrar em contato caso precisar. Você é sempre bem-vindo(a)!</h4>
 
-![meliodas-nanatsu-no-taizai](https://user-images.githubusercontent.com/22198380/138902369-0fbced11-9357-421e-a185-d5df70aa9028.gif)
+<img src="https://user-images.githubusercontent.com/22198380/138902369-0fbced11-9357-421e-a185-d5df70aa9028.gif" width="498" height="278" />
 
