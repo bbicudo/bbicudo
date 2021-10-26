@@ -1,4 +1,4 @@
-<h1>Bem vindo ao meu perfil!</h1>
+<h1>Bem vindo(a) ao meu perfil!</h1>
 
 ![Yo](https://user-images.githubusercontent.com/22198380/138895788-bcd19a6e-026f-410c-b14e-1d35990e7ad0.gif)
 
@@ -17,6 +17,7 @@
 :game_die: Jogador e mestre de RPG<br/>
 :tv: Assistir animes<br/>
 
+<img src="https://user-images.githubusercontent.com/22198380/138901008-2948b9a9-5882-4d38-ad37-a3a836f41f77.gif"/>
 <h2>Principais Linguagens:</h2>
 
 ![image](https://img.shields.io/badge/VBScript-VBS-blue)
@@ -25,12 +26,14 @@
 ![image](https://img.shields.io/badge/css-css3-blue)
 ![image](https://img.shields.io/badge/javascript-JS-blue)
 
-📫 Entre em contato comigo pelo e-mail brunobranco4@hotmail.com<br/><br/>
+<h2>Contato:</h2>
 
+[![image](https://img.shields.io/badge/In-Linkedin-blue)](https://www.linkedin.com/in/bruno-branco-bicudo-220387a1/)
 
 ![bbicudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbicudo&show_icons=true&theme=dark)
 
 ![bbicudo's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbicudo&layout=compact&card_width=445langs_count=7&theme=dark)
 
-
+<h3>Por último, sinta-se livre para voltar quando quiser e entrar em contato caso precisar. Você é sempre bem-vindo(a)!</h3>
+![meliodas-nanatsu-no-taizai](https://user-images.githubusercontent.com/22198380/138902369-0fbced11-9357-421e-a185-d5df70aa9028.gif)
 
