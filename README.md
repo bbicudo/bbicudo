@@ -25,15 +25,12 @@
 ![image](https://img.shields.io/badge/html5-html-blue)
 ![image](https://img.shields.io/badge/css3-css-blue)
 ![image](https://img.shields.io/badge/javascript-JS-blue)
-
+![bbicudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbicudo&show_icons=true&theme=dark)
+![bbicudo's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbicudo&layout=compact&card_width=445langs_count=7&theme=dark)
 <h2>Contato:</h2>
 
 [![image](https://img.shields.io/badge/In-Linkedin-blue)](https://www.linkedin.com/in/bruno-branco-bicudo-220387a1/)
 ![image](https://img.shields.io/badge/Hotmail-brunobranco4@hotmail.com-blue)
-
-![bbicudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbicudo&show_icons=true&theme=dark)
-
-![bbicudo's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbicudo&layout=compact&card_width=445langs_count=7&theme=dark)
 
 <h4>Por último, sinta-se livre para voltar quando quiser e entrar em contato caso precisar. Você é sempre bem-vindo(a)!</h4>
 
