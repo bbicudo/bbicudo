@@ -1,5 +1,11 @@
-### Hi there 👋
+### Olá! Bem vindo ao meu perfil :)
 
+🔭 Atualmente trabalho como Administrador de Redes e Sistemas
+🌱 Estudando Segurança da Informação
+📫 Entre em contato comigo pelo e-mail brunobranco4@hotmail.com
+
+
+![bbicudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbicudo&show_icons=true&theme=radical)
 <!--
 **bbicudo/bbicudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
