@@ -22,8 +22,8 @@
 
 ![image](https://img.shields.io/badge/VBScript-VBS-blue)
 ![image](https://img.shields.io/badge/Batchfile-bat-blue)
-![image](https://img.shields.io/badge/html-html5-blue)
-![image](https://img.shields.io/badge/css-css3-blue)
+![image](https://img.shields.io/badge/html5-html-blue)
+![image](https://img.shields.io/badge/css3-css-blue)
 ![image](https://img.shields.io/badge/javascript-JS-blue)
 
 <h2>Contato:</h2>
