@@ -5,7 +5,9 @@
 📫 Entre em contato comigo pelo e-mail brunobranco4@hotmail.com<br/><br/>
 
 
-![bbicudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbicudo&show_icons=true&theme=radical)
+![bbicudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbicudo&show_icons=true&theme=dark)
+
+![bbicudo's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbicudo&layout=compact&langs_count=7&theme=dark)
 <!--
 **bbicudo/bbicudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
