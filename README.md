@@ -10,6 +10,7 @@
 <h2>Estudos:</h2>
 🎓 Formado em Análise e Desenvolvimento de Sistemas.<br/>
 🎓 Estudando Segurança da Informação.<br/>
+🎓 Estudando Salesforce.<br/>
 :thinking: Planejando o retorno para o mundo de Dev.<br/><br/>
 
 <h2>Hobbies:</h2>
