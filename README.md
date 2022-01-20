@@ -20,19 +20,21 @@
 <img src="https://user-images.githubusercontent.com/22198380/138901008-2948b9a9-5882-4d38-ad37-a3a836f41f77.gif"/>
 <h2>Principais Linguagens:</h2>
 
-![image](https://img.shields.io/badge/VBScript-VBS-blue)
-![image](https://img.shields.io/badge/Batchfile-bat-blue)
-![image](https://img.shields.io/badge/html5-html-blue)
-![image](https://img.shields.io/badge/css3-css-blue)
-![image](https://img.shields.io/badge/javascript-JS-blue)
+![VBScript](https://img.shields.io/badge/VBScript-1A1A1A.svg?style=for-the-badge&logo=VBScript&logoColor=white)
+![Batchfile](https://img.shields.io/badge/Batchfile-1A1A1A.svg?style=for-the-badge&logo=Batchfile&logoColor=white)
+![html5](https://img.shields.io/badge/html5-1A1A1A.svg?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3-1A1A1A.svg?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-1A1A1A.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/java-1A1A1A.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 ![bbicudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbicudo&show_icons=true&theme=dark)
 
 ![bbicudo's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbicudo&layout=compact&card_width=445langs_count=7&theme=dark)
 <h2>Contato:</h2>
 
-[![image](https://img.shields.io/badge/In-Linkedin-blue)](https://www.linkedin.com/in/bruno-branco-bicudo-220387a1/)
-![image](https://img.shields.io/badge/Hotmail-brunobranco4@hotmail.com-blue)
+[![image](https://img.shields.io/badge/linkedin-1A1A1A.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-branco-bicudo-220387a1/)
+![image](https://img.shields.io/badge/hotmail-1A1A1A.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 <h4>Por último, sinta-se livre para voltar quando quiser e entrar em contato caso precisar. Você é sempre bem-vindo(a)!</h4>
 
