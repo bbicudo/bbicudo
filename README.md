@@ -30,7 +30,7 @@
 
 ![bbicudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbicudo&show_icons=true&theme=dark)
 
-![bbicudo's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbicudo&layout=compact&card_width=445langs_count=7&theme=dark)
+![bbicudo's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbicudo&layout=compact&card_width=445langs_count=8&theme=dark)
 <h2>Contato:</h2>
 
 [![image](https://img.shields.io/badge/linkedin-1A1A1A.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-branco-bicudo-220387a1/)
