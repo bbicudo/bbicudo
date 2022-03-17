@@ -25,6 +25,7 @@
 ![css3](https://img.shields.io/badge/css3-1A1A1A.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-1A1A1A.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-1A1A1A.svg?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-1A1A1A.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
 ![bbicudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbicudo&show_icons=true&theme=dark)
