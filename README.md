@@ -5,7 +5,7 @@
 
 <h2>Sobre:</h2>
 🌱 Sou o Bruno, vulgo "Bicudo". Tenho 31 anos, evoluindo um pouco a cada dia no mundo da tecnologia.<br/>
-💼 Atualmente trabalho como Analista de Sistemas Jr.<br/>
+💼 Atualmente trabalho como Developer.<br/>
 
 <h2>Estudos:</h2>
 🎓 Formado em Análise e Desenvolvimento de Sistemas.<br/>
