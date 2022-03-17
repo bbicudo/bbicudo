@@ -5,12 +5,11 @@
 
 <h2>Sobre:</h2>
 🌱 Sou o Bruno, vulgo "Bicudo". Tenho 31 anos, evoluindo um pouco a cada dia no mundo da tecnologia.<br/>
-💼 Atualmente trabalho como Administrador de Redes e Sistemas.<br/>
+💼 Atualmente trabalho como Analista de Sistemas Jr.<br/>
 
 <h2>Estudos:</h2>
 🎓 Formado em Análise e Desenvolvimento de Sistemas.<br/>
-🎓 Estudando Java e Salesforce.<br/>
-:thinking: Planejando o retorno para o mundo de Dev.<br/><br/>
+🎓 Estudando PHP e Drupal.<br/>
 
 <h2>Hobbies:</h2>
 :video_game: Apaixonado por jogos<br/>
