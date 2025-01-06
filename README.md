@@ -5,11 +5,11 @@
 
 <h2>Sobre:</h2>
 🌱 Sou o Bruno, vulgo "Burno". Tenho 34 anos, evoluindo um pouco a cada dia no mundo da tecnologia.<br/>
-💼 Atualmente trabalho como Developer.<br/>
+💼 Atualmente trabalho como Developer PHP/Drupal.<br/>
 
 <h2>Estudos:</h2>
 🎓 Formado em Análise e Desenvolvimento de Sistemas.<br/>
-🎓 Estudando PHP e Drupal.<br/>
+🎓 Estudando Spring Boot.<br/>
 
 <h2>Hobbies:</h2>
 :video_game: Apaixonado por jogos<br/>
