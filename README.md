@@ -27,7 +27,7 @@
 ![PHP](https://img.shields.io/badge/php-1A1A1A.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <h2>Frameworks:</h2>
-![Drupal]https://img.shields.io/badge/Drupal-1A1A1A.svg?style=for-the-badge&logo=Drupal&logoColor=white
+![Drupal](https://img.shields.io/badge/Drupal-1A1A1A.svg?style=for-the-badge&logo=Drupal&logoColor=white)
 
 ![bbicudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbicudo&show_icons=true&theme=dark)
 
